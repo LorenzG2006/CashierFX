@@ -1,0 +1,19 @@
+1. App.java - 223 lines 
+2. ChartController.java - 67 lines 
+3. Controller.java - 8 lines 
+4. Dataset.java - 88 lines 
+5. DatasetManager.java - 115 lines 
+6. Entry.java - 80 lines 
+7. FileIsNullException.java - 22 lines 
+8. FloatField.java - 59 lines 
+9. IntegerField.java - 47 lines 
+10. JsonMapper.java - 39 lines 
+11. MainController.java - 874 lines 
+12. MainModel.java - 341 lines 
+13. PropertyItem.java - 63 lines 
+14. Session.java - 29 lines 
+15. Settings.java - 172 lines 
+16. SettingsManager.java - 86 lines 
+17. TableController.java - 107 lines 
+-------------------------------- 
+Total data: 17 files, 2420 lines 
