@@ -1,4 +1,4 @@
-module com.example {
+module at.geyser {
     requires javafx.controls;
     requires javafx.fxml;
     requires transitive javafx.graphics;
@@ -9,7 +9,7 @@ module com.example {
 
     requires at.geyser.bcrypt;
 
-    opens com.example to javafx.fxml;
+    opens at.geyser.cashier to javafx.fxml;
 
-    exports com.example;
+    exports at.geyser.cashier;
 }
